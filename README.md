@@ -1,9 +1,9 @@
 # personal_projects
 
 
-# Machine Learning
+# Machine Learning:
 
-Fifa Coefficients:
+# fifa_coefficients
 
 A Linear Regression model built in Python to calculate the weights or importance of different player attributes (e.g. short passing, strength, slide tackling, crossing) for their overall rating, for a given position.
 
